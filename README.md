@@ -64,8 +64,8 @@ A comprehensive end-to-end forecasting study using 21 years of daily PM₂.₅ d
 
 ```
 ├── FinalData.csv                          # Merged daily dataset
-├── Phase3_4_5_AirPollution.ipynb          # EDA · Pre-processing · Model Order Selection
-├── Phase6_7_Statistical_Models.ipynb      # Baseline + Statistical models
+├── AFM_EDA_AirPollution.ipynb          # EDA · Pre-processing · Model Order Selection
+├── AFM_Baseline_Statistical_Models.ipynb      # Baseline + Statistical models
 ├── PM25_Improved_OneDay_and_Recursive_Forecasting.ipynb   # RNN · LSTM · GRU + Quantile
 └── Applied_Forecasting_Project.pdf        # Full project report
 ```
